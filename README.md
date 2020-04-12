@@ -29,3 +29,7 @@ A few updates to the instructions above were needed.
 * BUILD_visualization needed to be manually turned on, this link shows you how to do that,
 http://www.pointclouds.org/documentation/tutorials/building_pcl.php
 
+## Credits
+Hyperparameters were not always optimal. I had to check various source and ultimately chose to go with the ones from this repository:
+https://github.com/4artit/SFND_Lidar_Obstacle_Detection
+
